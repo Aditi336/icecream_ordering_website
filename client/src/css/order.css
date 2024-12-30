@@ -1,0 +1,99 @@
+@font-face {
+    font-family: Myfont;
+    src: url("AlexBrush-Regular.ttf");
+}
+
+#rainier,#black,#royal,#marsh,#gummy_candies,#crushed_candies,#hard_candies,#popping_candies,#cocunut_candies,#caramel_sauce,#saltcaramel_sauce,#crushcaramel_sauce,#chocosprink_sprinkler,#rainballsprink_sprinkler,#rainsprink_sprinkler,#strawberry_sauce,#chocolate_sauce,#blueberry_sauce,#cashew_nuts,#almonds_nuts,#pista_nuts,#walnut_nuts,#chocochip_cookie,#shortbread_cookie,#graham_cookie,#Berry_fruits,#Banana_fruits,#Mango_fruits,#Kiwi_cookie,#chocolate_icecream,#strawberry_icecream,#vanilla_icecream,#mintchoco_icecream,#butter_icecream,#blackberry_icecream
+
+{
+  height: 202px;
+  width: 202px; 
+  cursor: pointer;
+  border-top-right-radius: 34px;
+  border-bottom-right-radius: 34px;
+  font-family:Myfont;
+
+
+}
+#marsh_T,#royal_T,#rainier_T,#black_T,#gummy_T,#crushed_T,#hard_T,#popping_T,#cocunut_T,#caramel_T,#saltcaramel_T,#crushcaramel_T,#chocosprink_T,#rainsprink_T,#rainballsprink_T,#strawberry_T,#chocolate_T,#blueberry_T,#cashew_T,#almonds_T,#pista_T,#walnut_T,#chocochip_T,#shortbread_T,#graham_T,#Berry_T,#Banana_T,#Mango_T,#Kiwi_T,#chocolate_T,#strawberry_T,#vanilla_T,#mintchoco_T,#butter_T,#blackberry_T
+
+{
+  font-size: 30px;
+  /* background-color: black; */
+  color:black;
+  padding: 10px;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+  font-family:Myfont ;
+  width: 202px; 
+  font-weight: 400;
+
+
+}
+
+.button_order_option{
+    font-size: 28px;
+    background-color:antiquewhite;
+    padding: 10px;
+    color: #995aff;
+    cursor: pointer;
+    font-weight:600;
+  
+  }
+.list_options{
+    flex-direction: row;
+    gap: 10px;
+    display: flex;
+
+    overflow-x: scroll;
+    list-style-type: none;
+    margin-top: 33px;
+}
+.list_options::-webkit-scrollbar{
+    display: none;
+}
+
+/* Hide scrollbar for Firefox */
+.list_options {
+    scrollbar-width: none; /* Firefox */
+  }
+  
+  /* For Internet Explorer and Edge */
+  .list_options {
+    -ms-overflow-style: none; /* IE and Edge */
+  }
+
+#submit_order{
+  font-size: 34px;
+  color:#995aff;
+  display: flex;
+  background-color:antiquewhite;
+  cursor: pointer;
+  border: none;
+  /* border:3px solid pink; */
+
+
+  /* padding:90px; */
+}
+
+#order_nav{
+  /* border:3px solid red; */
+  background-color:antiquewhite;
+  display: flex;
+  align-items: center;
+  float: right;
+  margin-right: 34px;
+  margin-top: 12px;
+  width: 34px;
+}
+#counter_order{
+  font-size: 18px;
+  color: white;
+  background-color: red;
+  border-radius: 20px;
+  padding: 3px;
+  position: absolute;
+  right: 22px;
+  top:203px
+}

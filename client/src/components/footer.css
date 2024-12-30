@@ -1,0 +1,25 @@
+#footer-bottom-section{
+    width: 100%;
+    /* border: 3px solid forestgreen; */
+}
+@font-face {
+    font-family: myFont;
+    src: url(Vanilla_Cake.ttf);
+ }
+#footer-content-div{
+    list-style-type: none;
+    display: flex;
+    gap: 3em;
+    align-items: center;
+    justify-content: center;
+}
+.footer-content-div_li{
+    font-size: 3em;
+    font-family: Myfont;
+    cursor: pointer;
+}
+.footer-app-div_li{
+   width: 2em;
+   height: 2em;
+   color: #995aff;
+}

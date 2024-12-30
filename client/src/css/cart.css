@@ -1,0 +1,117 @@
+@media (max-width: 1200px) {
+   
+}
+
+#cart_to_bill{
+    background-color: antiquewhite;
+}
+#items_block {
+    /* flex: 1 1 calc(33.33% - 2/0px); Adjust the 20px value as necessary for your layout */
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    /* width:234px; */
+}
+#item_block_heading{
+    font-family: Myfont;
+    font-size: 56px;
+    margin-left: 34px;
+}
+
+#item_block_li{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:54px;
+    width:700px;
+    padding: 12px;
+    background-color: antiquewhite;
+    /* border:3px solid green */
+
+}
+.bill_images{
+    width: 160px;
+    height: 160px;
+    border-radius: 30px;
+}
+@font-face {
+    font-family: Myfont;
+    src: url("AlexBrush-Regular.ttf");
+}
+#bill_details{
+    display: flex;
+    flex-direction: column;
+    /* border: 3px solid fuchsia; */
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+}
+.bill_p{
+    font-family: Myfont;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+#bill_prize{
+    font-size: 30px;
+    text-align: end;
+    margin-right: 34px;
+    /* line-height: 12px; */
+}
+
+#item_buttons{
+    display:grid;
+    gap:4px;
+    /* margin-left: 720px; */
+    /* border: 3px solid fuchsia; */
+    margin-right: 34px;
+    margin-top: 50px;
+    /* width: 120px; */
+}
+#item_increase_cart{
+    font-size: 24px;
+    width: 33px;
+    height: 33px;
+    text-align: center;
+    right: 134px;
+    /* display: flex; */
+    background-color: greenyellow;
+}
+#bill_prize{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+#item_decrease_cart{
+    font-size: 24px;
+    width: 33px;
+    height: 33px;
+    text-align: center;
+    background-color: firebrick;
+}#item_remove_cart{
+    font-size: 20px;
+    width: 103px;
+    height: 50px;
+    text-align: center;
+    background-color: red;
+}
+#total_prize{
+    font-size: 30px;
+    /* font-family: Myfont; */
+    text-align: center;
+}
+#bill_generation{
+    font-size: 35px;
+    border-radius:20px ;
+    font-family: Myfont;
+    text-align: center;
+    background-color:rgb(215, 229, 250) ;
+    color:#995aff;
+    font-weight: 700;
+}
+#total_prize_button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

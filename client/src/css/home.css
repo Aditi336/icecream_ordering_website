@@ -1,0 +1,83 @@
+@font-face {
+   font-family: myFont;
+   src: url(Vanilla_Cake.ttf);
+}
+
+#home-text{
+   font-size: 45px;
+   font-family: myFont;
+   /* border: 3px solid red; */
+   margin-left:34px ;
+   margin-right: 34px;
+
+}
+#home-mapping-head{
+   font-size: 65px;
+   font-family: myFont;
+   margin-left: 34px;
+
+}
+
+
+#home-mapping{
+   padding: 23px;
+   width: 257px;
+   height: 378px;
+   flex:1 1 calc(25%)
+
+}
+
+#home-mapping-div{
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin-left: 34px;
+   margin-right: 34px;
+}
+
+#booba{
+   display: flex;
+   flex-direction: row;
+   gap: 164px;
+   margin-left: 45px;
+   margin-right: 45px;
+   /* border: 2px solid green; */
+   justify-content: center;
+   align-items: center;
+
+}
+#booba_tea_img{
+   width: 745px;
+   height: 223px;
+   margin-left: 34px;
+   margin-top: 32px;
+
+}
+#booba_tea_text{
+   font-size: 35px;
+   font-family: myFont;
+   margin-top: 32px;
+
+
+}
+@media (max-width:1200px) {
+   #home-mapping-div{
+      flex:1 1 calc(33.33%)
+   }
+   
+}
+
+@media (max-width:800px) {
+   #home-mapping-div{
+      flex:1 1 calc(50%)
+   }
+   
+}
+@media (max-width:500px) {
+   #home-mapping-div{
+      flex:1 1 100%
+   }
+   
+}

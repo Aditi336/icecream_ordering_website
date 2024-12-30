@@ -1,0 +1,70 @@
+#header-login{
+    text-align: center;
+    font-size: 54px;
+    color: #995aff;
+}
+
+input{
+    color: #995aff;
+    font-size: 34px;
+    font-weight: 500;
+}
+
+#table-login{
+    margin: auto;
+    /* border: 3px solid red; */
+    background-color: #ffd0da;
+    padding: 100px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+
+table { 
+    border-spacing: 20px; 
+  }
+
+  th{
+    /* border: 3px so lid green; */
+    font-size: 40px;
+    color: #995aff;
+        font-family:'Times New Roman', Times, serif;
+
+}
+#submit-login{
+    color: #995aff;
+    font-size: 27px;
+    padding: 6px;
+    font-weight: 600;
+    border-radius:15px ;
+    background-color: #d0ddff;
+}
+#submit-login:hover{
+    background-color: #a0a8f0;
+    color: black;
+}
+#reset-login{
+    color: #995aff;
+    font-size: 27px;
+    padding: 6px;
+    font-weight: 600;
+    border-radius:15px ;
+    background-color: #d0ddff;
+}
+#reset-login:hover{
+    background-color: #a0a8f0;
+    color: black;
+}
+#link-to-register{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  border: 3px solid green;
+}
+
+#navlink-register{
+    font-size: 28px;
+  color:#995aff;
+}
+

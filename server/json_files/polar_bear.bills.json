@@ -1,0 +1,334 @@
+[{
+  "_id": {
+    "$oid": "669029397d06804405a5f36c"
+  },
+  "username": "thapa",
+  "phone": "`123456789",
+  "address": "sai dhama 314",
+  "date": {
+    "$date": "2024-12-06T18:30:00.000Z"
+  },
+  "ordered_item": "strawberry",
+  "price": "45",
+  "createdAt": {
+    "$date": "2024-07-11T18:49:29.162Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T18:49:29.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66902a937d06804405a5f36e"
+  },
+  "username": "th",
+  "phone": "`123456789",
+  "address": "sai dhama 314",
+  "date": {
+    "$date": "2024-12-06T18:30:00.000Z"
+  },
+  "ordered_item": "strawberry",
+  "price": "45",
+  "createdAt": {
+    "$date": "2024-07-11T18:55:15.470Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T18:55:15.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690be4e14987b31fe190c4d"
+  },
+  "username": "esha",
+  "phone": "1234567890",
+  "date": {
+    "$date": "2024-07-12T05:25:34.993Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-12T05:25:34.996Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T05:25:34.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66914d8b21cff38c0eae98f6"
+  },
+  "username": "chotu singh",
+  "phone": "`123456789",
+  "createdAt": {
+    "$date": "2024-07-12T15:36:43.117Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T15:36:43.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669150e1c416c3e3d1a517ce"
+  },
+  "username": "John Doe",
+  "phone": "1234567890",
+  "address": "123 Main St, Anytown, USA",
+  "date": {
+    "$date": "2024-07-12T00:00:00.000Z"
+  },
+  "ordered_item": [
+    {
+      "item": "Strawberry Cake",
+      "price": 15.99,
+      "amount": 2,
+      "_id": {
+        "$oid": "669150e1c416c3e3d1a517cf"
+      }
+    },
+    {
+      "item": "Chocolate Muffin",
+      "price": 3.99,
+      "amount": 3,
+      "_id": {
+        "$oid": "669150e1c416c3e3d1a517d0"
+      }
+    }
+  ],
+  "price": "45.95",
+  "createdAt": {
+    "$date": "2024-07-12T15:50:57.751Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T15:50:57.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669153a4ebddfa7adcaad238"
+  },
+  "username": "esha",
+  "phone": "1234567890",
+  "address": "vijya nagar",
+  "date": {
+    "$date": "2024-12-06T18:30:00.000Z"
+  },
+  "ordered_item": [
+    {
+      "item": "Maraschino",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "669153a4ebddfa7adcaad239"
+      }
+    },
+    {
+      "item": "Royal Ann",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "669153a4ebddfa7adcaad23a"
+      }
+    }
+  ],
+  "price": "90",
+  "createdAt": {
+    "$date": "2024-07-12T16:02:44.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T16:02:44.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669166b6ebddfa7adcaad23e"
+  },
+  "username": "esha",
+  "phone": "1234567890",
+  "address": "central plaza",
+  "date": {
+    "$date": "2024-12-06T18:30:00.000Z"
+  },
+  "ordered_item": [
+    {
+      "item": "Maraschino",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "669166b6ebddfa7adcaad23f"
+      }
+    },
+    {
+      "item": "Crushed Candy Bars",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "669166b6ebddfa7adcaad240"
+      }
+    },
+    {
+      "item": "Rainbow Ball Sprinkler",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "669166b6ebddfa7adcaad241"
+      }
+    },
+    {
+      "item": "Almonds",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "669166b6ebddfa7adcaad242"
+      }
+    },
+    {
+      "item": "Graham crackers",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "669166b6ebddfa7adcaad243"
+      }
+    },
+    {
+      "item": "Mintchoco Icecream",
+      "price": 45,
+      "amount": 2,
+      "_id": {
+        "$oid": "669166b6ebddfa7adcaad244"
+      }
+    }
+  ],
+  "price": "315",
+  "createdAt": {
+    "$date": "2024-07-12T17:24:06.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T17:24:06.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693719e3a5905d804ff89bb"
+  },
+  "username": "deepika",
+  "phone": "1234567890",
+  "address": "#23,near gangapur,5th cross ravi shankar road",
+  "date": "14/7/2024",
+  "ordered_item": [
+    {
+      "item": "Maraschino",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "6693719e3a5905d804ff89bc"
+      }
+    }
+  ],
+  "price": "45",
+  "createdAt": {
+    "$date": "2024-07-14T06:35:10.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T06:35:10.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66939f0a0bc6961802667d19"
+  },
+  "username": "deepika",
+  "phone": "1234567890",
+  "address": "ayudha",
+  "date": "14/7/2024",
+  "ordered_item": [
+    {
+      "item": "Crushed Candy Bars",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "66939f0a0bc6961802667d1a"
+      }
+    },
+    {
+      "item": "Rainier",
+      "price": 45,
+      "amount": 2,
+      "_id": {
+        "$oid": "66939f0a0bc6961802667d1b"
+      }
+    }
+  ],
+  "price": "135",
+  "createdAt": {
+    "$date": "2024-07-14T09:48:58.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T09:48:58.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66939f300bc6961802667d1d"
+  },
+  "username": "deepika",
+  "phone": "1234567890",
+  "address": "filled",
+  "date": "14/7/2024",
+  "ordered_item": [
+    {
+      "item": "Crushed Candy Bars",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "66939f300bc6961802667d1e"
+      }
+    },
+    {
+      "item": "Rainier",
+      "price": 45,
+      "amount": 2,
+      "_id": {
+        "$oid": "66939f300bc6961802667d1f"
+      }
+    },
+    {
+      "item": "Royal Ann",
+      "price": 45,
+      "amount": 1,
+      "_id": {
+        "$oid": "66939f300bc6961802667d20"
+      }
+    }
+  ],
+  "price": "180",
+  "createdAt": {
+    "$date": "2024-07-14T09:49:36.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T09:49:36.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66939fb416544277dd1bcbdf"
+  },
+  "username": "deepika",
+  "phone": "1234567890",
+  "ordered_item": [],
+  "createdAt": {
+    "$date": "2024-07-14T09:51:48.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-14T09:51:48.777Z"
+  },
+  "__v": 0
+}]

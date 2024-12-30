@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "6672e97b40538fdbb1595129"
+  },
+  "username": "frank",
+  "email": "frankmad@gmail.com",
+  "phone": "12345676",
+  "password": "mad",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672ea6f0fa75174a5ce174f"
+  },
+  "username": "ashok",
+  "email": "ashokmad@gmail.com",
+  "phone": "987654332",
+  "password": "jenny",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672ec8caec19c575e8b0099"
+  },
+  "username": "janak",
+  "email": "janakmad@gmail.com",
+  "phone": "987654332",
+  "password": "jenny",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672ecebaec19c575e8b009c"
+  },
+  "username": "anirudh",
+  "email": "anirudhbosale@gmail.com",
+  "phone": "987654332",
+  "password": "jenny",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673135d21a3b954e4b61f71"
+  },
+  "username": "MANOJ",
+  "email": "manoj@gmail.com",
+  "phone": "987654332",
+  "password": "shruthi",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667313e455e641d27d99ba9b"
+  },
+  "username": "kumari",
+  "email": "kumari@gmail.com",
+  "phone": "987654332",
+  "password": "cbse",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673adaa4381612179e689b2"
+  },
+  "username": "suda",
+  "email": "suda@gmail.com",
+  "phone": "1234567",
+  "password": "sudo",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667418f00799e3cf32ba5d28"
+  },
+  "username": "srikath",
+  "email": "srikath@gmail.com",
+  "phone": "1234567890",
+  "password": "srikath",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681458f132462aea74fa782"
+  },
+  "username": "slash@1712014",
+  "email": "gdnhf@gmail.com",
+  "phone": "9036562020",
+  "password": "1234565",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668ecd3da1fd72602d7e623f"
+  },
+  "username": "esha",
+  "email": "esha@gmail.com",
+  "phone": "1234567890",
+  "password": "esha123",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692346e9bb8fca9a1c62921"
+  },
+  "username": "deepika",
+  "email": "deepika@gmail.com",
+  "phone": "1234567890",
+  "password": "deepika",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669371da3a5905d804ff89bf"
+  },
+  "username": "ravishankar",
+  "email": "ravi@gmail.com",
+  "phone": "1234567890",
+  "password": "ravi123",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6693772357f8766e56d37589"
+  },
+  "username": "frank",
+  "email": "frank@gmai.com",
+  "phone": "1234567890",
+  "password": "frank12",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acdf78945f46a6079d59f3"
+  },
+  "username": "puneeth",
+  "email": "puneeth@gmail.com",
+  "phone": "1234567891",
+  "password": "puneeth",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acf0ce945f46a6079d59fd"
+  },
+  "username": "yamini",
+  "email": "yamini@gmail.com",
+  "phone": "0987654321",
+  "password": "yamini1",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66acf3afc538f1c8156fe7af"
+  },
+  "username": "guna",
+  "email": "guna@gmail.com",
+  "phone": "2342342345",
+  "password": "guna234",
+  "isAdmin": false,
+  "__v": 0
+}]
